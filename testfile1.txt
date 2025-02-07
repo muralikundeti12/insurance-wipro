@@ -1,1 +1,2 @@
 creating repository git
+This is local repository file1 checking this file1 to central
